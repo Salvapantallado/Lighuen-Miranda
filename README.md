@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 
 </div>
 <div align="center">
-<img src='https://cdn.discordapp.com/attachments/839222580254605397/839625040001630244/Benedict-Cumberbatch-in-Sherlock-The-Final-Problem.png' alt = 'Sherlock'/>
+<img src='https://tenor.com/es/ver/hey-spiderman-miles-morales-cool-gif-16115338' alt = 'Miles'/>
   </div>
-<div align="center"><h3>I'm fullstack developer</h3></div>
+<div align="center"><h3>I'm Fullstack Developer</h3></div>
 
-<div align="center"><h1>Languajes and tools I know</h1></div>
+<div align="center"><h1>Coding anguages and tools I know:</h1></div>
 <p align="center">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img width="5%" align="center" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
