@@ -1,4 +1,4 @@
-### Hiya! 👋
+### Hiya, welcome to my Github profile! 👋
 
 Here are some ideas to get you started:
 
