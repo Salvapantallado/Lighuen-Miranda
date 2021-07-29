@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 </div>
 <div align="center">
-<img src='https://tenor.com/es/ver/hey-spiderman-miles-morales-cool-gif-16115338' alt = 'Miles'/>
+<div class="tenor-gif-embed" data-postid="16115338" data-share-method="host" data-width="100%" data-aspect-ratio="1.7412587412587412"><a href="https://tenor.com/view/hey-spiderman-miles-morales-cool-gif-16115338">Hey Spiderman GIF</a> from <a href="https://tenor.com/search/hey-gifs">Hey GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   </div>
 <div align="center"><h3>I'm Fullstack Developer</h3></div>
 
