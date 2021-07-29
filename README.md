@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   </div>
 <div align="center"><h3>I'm a fresh Fullstack Developer</h3></div>
 
-<div align="center"><h1>Coding anguages and tools I know:</h1></div>
+<div align="center"><h1>Coding languages and tools I know:</h1></div>
 <p align="center">
   <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img width="5%" align="center" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
