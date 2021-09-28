@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m looking to grow as much as I can!
 - 📫 I'm always looking forward to strive for better understanding of the coding world!
-- If you want to reach me, just dive onto my e-mail: lighu.miranda@gmail.com
+- If you want to reach me, just dive into my e-mail: lighu.miranda@gmail.com
 - ⚡ Fun fact: My movie knowledge is waaaaay less than one would normally think haha.
 
 </div>
