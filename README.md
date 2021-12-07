@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://thumbs.gfycat.com/UnawareScentedHoopoe-size_restricted.gif" alt="Miles" />
   </div>
-<div align="center"><h3>I'm a fresh Fullstack Developer</h3></div>
+<div align="center"><h3>I'm a Fullstack Developer</h3></div>
 
 <div align="center"><h1>Coding languages and tools I know:</h1></div>
 <p align="center">
