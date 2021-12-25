@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 <p align="center"> React | Redux | Node.js | Express | HTML5 | CSS3 | Javascript | Postgres | Sequelize | Postman | Git </p>
 
-<h5>Projects I've worked on:</h5>
-<br/>
+<h2>Projects I've worked on:</h2>
+
 <a href=https://poke-app-spa.vercel.app>Pokemon App SPA</a>
+<br/>
 <a href=https://pf-vinos-ecommerce.vercel.app>Winery App SPA</a>
+<br/>
 <a href=https://crazypiratenft.com>Crazy Pirates NFT website</a>
