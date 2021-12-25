@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <h5>Projects I've worked on:</h5>
 <br/>
-<p>Pokemon App SPA:<a>https://poke-app-spa.vercel.app</a></p>
-<p>Winery App SPA: <a>https://pf-vinos-ecommerce.vercel.app</a></p>
-<p>Crazy Pirates NFT website: <a>https://crazypiratenft.com</a></p>
+<p>Pokemon App SPA:</p><a>https://poke-app-spa.vercel.app</a>
+<p>Winery App SPA:</p> <a>https://pf-vinos-ecommerce.vercel.app</a>
+<p>Crazy Pirates NFT website:</p> <a>https://crazypiratenft.com</a>
