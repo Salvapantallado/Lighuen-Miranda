@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 <p align="center"> React | Redux | Node.js | Express | HTML5 | CSS3 | Javascript | Postgres | Sequelize | Postman | Git </p>
 
 <h2>Take a look at my projects on my Portfolio:</h2>
-
-<a href="https://lighuenm-portfolio.vercel.app"> Lighuen Miranda's Portfolio >
-![image](https://user-images.githubusercontent.com/77689041/152395653-1d37b5c4-871a-4437-9dd3-41fbd3ce4413.png)
-</a>
+<div align="center">
+  <a href="https://lighuenm-portfolio.vercel.app" target="_blank" rel="noopener noreferrer" >
+    Lighuen Miranda's Portfolio 
+  ![image](https://user-images.githubusercontent.com/77689041/152395653-1d37b5c4-871a-4437-9dd3-41fbd3ce4413.png)
+  </a>
+</div>
