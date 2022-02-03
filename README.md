@@ -33,12 +33,11 @@ Here are some ideas to get you started:
 
 <h2>Take a look at my projects on my Portfolio:</h2>
 
-  <a href="https://lighuenm-portfolio.vercel.app" target="_blank" rel="noopener noreferrer" >
-
+  <a href="https://lighuenm-portfolio.vercel.app" target="_blank" rel="noopener noreferrer" align="center">
     Lighuen Miranda's Portfolio
-  
+    </a>
   ![image](https://user-images.githubusercontent.com/77689041/152395653-1d37b5c4-871a-4437-9dd3-41fbd3ce4413.png)
-  </a>
+
   
 
 
