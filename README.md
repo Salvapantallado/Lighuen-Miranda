@@ -1,45 +1,49 @@
-### Hiya, welcome to my Github profile! 👋
+Welcome to my profile 👋 
+================================
 
-Here are some ideas to get you started:
+I'm Lighuen Miranda - Fullstack Web Developer
+-----------------------
 
-- 🌱 I’m looking to grow as much as I can!
-- 📫 I'm always looking forward to strive for better understanding of the coding world!
-- If you want to reach me, just dive into my e-mail: lighu.miranda@gmail.com
+I'm a hard working programmer that get things done. Fast learner and frustration proof. My motto is: Nothing is impossible as long as you have the will to do it!
 
-</div>
-<div align="center">
-<img src="https://thumbs.gfycat.com/UnawareScentedHoopoe-size_restricted.gif" alt="Miles" />
-  </div>
-<div align="center"><h3>I'm a Fullstack Developer</h3></div>
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [Lighuen Miranda's Portfolio](http://lighuenm-portfolio.vercel.app)
+* ✉️  You can contact me at [lighu.miranda@gmail.com](mailto:lighu.miranda@gmail.com)
+* 🧠  I'm learning MongoDB, GraphQL, Vue.js and soon will be learning AWS!
+* 🤝  I'm open to collaborating on challenging projects.
+* ⚡  Looking to work in a fast paced team in a remote position with challenging projects!
 
-<div align="center"><h1>Coding languages and tools I know:</h1></div>
-<p align="center">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img width="5%" align="center" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-  <img width="5%" align="center" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg">
-  <img width="5.5%" align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-  <img width="6%" align="center" src="https://img1.freepng.es/20180816/ql/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f6479ca3.8709748315344660382933.jpg">
-  <img width="5%" align="center" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img width="5%" align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
+### Socials
 
-<p align="center"> React | Redux | Node.js | Express | HTML5 | CSS3 | Javascript | Postgres | Sequelize | Postman | Git </p>
-<div align="center" >
-<h2>Take a look at my projects on my Portfolio:</h2>
+<p align="left"> <a href="https://www.github.com/Salvapantallado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/lighuen-miranda/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-  <a href="https://lighuenm-portfolio.vercel.app" target="_blank" rel="noopener noreferrer" >
+### Badges
 
-    Lighuen Miranda's Portfolio
+<b>My GitHub Stats</b>
 
-  ![image](https://user-images.githubusercontent.com/77689041/152395653-1d37b5c4-871a-4437-9dd3-41fbd3ce4413.png)
-    </a>
-  </div>
-
+<a href="http://www.github.com/Salvapantallado"><img src="https://github-readme-stats.vercel.app/api?username=Salvapantallado&show_icons=true&hide=stars,&count_private=true&title_color=14b8a6&text_color=22c55e&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Salvapantallado's GitHub stats" /></a>
 
 
